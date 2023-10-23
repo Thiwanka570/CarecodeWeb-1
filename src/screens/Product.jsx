@@ -28,7 +28,7 @@ function Product() {
                           <Card.Text>
                             Some quick example text to build on the card title and make up the bulk of the card's content.
                           </Card.Text>
-                          <Button variant='primary'>Go somewhere</Button>
+                          <Button variant='primary'>Readmore</Button>
                         </Card.Body>
                       </Card>
                     </div>
@@ -40,7 +40,7 @@ function Product() {
                           <Card.Text>
                             Some quick example text to build on the card title and make up the bulk of the card's content.
                           </Card.Text>
-                          <Button variant='primary'>Go somewhere</Button>
+                          <Button variant='primary'>Readmore</Button>
                         </Card.Body>
                       </Card>
                     </div>
@@ -59,7 +59,7 @@ function Product() {
                           <Card.Text>
                             Some quick example text to build on the card title and make up the bulk of the card's content.
                           </Card.Text>
-                          <Button variant='primary'>Go somewhere</Button>
+                          <Button variant='primary'>Readmore</Button>
                         </Card.Body>
                       </Card>
                     </div>
@@ -71,7 +71,7 @@ function Product() {
                           <Card.Text>
                             Some quick example text to build on the card title and make up the bulk of the card's content.
                           </Card.Text>
-                          <Button variant='primary'>Go somewhere</Button>
+                          <Button variant='primary'>Readmore</Button>
                         </Card.Body>
                       </Card>
                     </div>
@@ -90,7 +90,7 @@ function Product() {
                           <Card.Text>
                             Some quick example text to build on the card title and make up the bulk of the card's content.
                           </Card.Text>
-                          <Button variant='primary'>Go somewhere</Button>
+                          <Button variant='primary'>Readmore</Button>
                         </Card.Body>
                       </Card>
                     </div>
@@ -102,7 +102,7 @@ function Product() {
                           <Card.Text>
                             Some quick example text to build on the card title and make up the bulk of the card's content.
                           </Card.Text>
-                          <Button variant='primary'>Go somewhere</Button>
+                          <Button variant='primary'>Readmore</Button>
                         </Card.Body>
                       </Card>
                     </div>
@@ -122,7 +122,7 @@ function Product() {
                           <Card.Text>
                             Some quick example text to build on the card title and make up the bulk of the card's content.
                           </Card.Text>
-                          <Button variant='primary'>Go somewhere</Button>
+                          <Button variant='primary'>Readmore</Button>
                         </Card.Body>
                       </Card>
                     </div>
@@ -134,7 +134,7 @@ function Product() {
                           <Card.Text>
                             Some quick example text to build on the card title and make up the bulk of the card's content.
                           </Card.Text>
-                          <Button variant='primary'>Go somewhere</Button>
+                          <Button variant='primary'>Readmore</Button>
                         </Card.Body>
                       </Card>
                     </div>
@@ -153,7 +153,7 @@ function Product() {
                           <Card.Text>
                             Some quick example text to build on the card title and make up the bulk of the card's content.
                           </Card.Text>
-                          <Button variant='primary'>Go somewhere</Button>
+                          <Button variant='primary'>Readmore</Button>
                         </Card.Body>
                       </Card>
                     </div>
@@ -165,7 +165,7 @@ function Product() {
                           <Card.Text>
                             Some quick example text to build on the card title and make up the bulk of the card's content.
                           </Card.Text>
-                          <Button variant='primary'>Go somewhere</Button>
+                          <Button variant='primary'>Readmore</Button>
                         </Card.Body>
                       </Card>
                     </div>
@@ -184,7 +184,7 @@ function Product() {
                           <Card.Text>
                             Some quick example text to build on the card title and make up the bulk of the card's content.
                           </Card.Text>
-                          <Button variant='primary'>Go somewhere</Button>
+                          <Button variant='primary'>Readmore</Button>
                         </Card.Body>
                       </Card>
                     </div>
@@ -196,26 +196,13 @@ function Product() {
                           <Card.Text>
                             Some quick example text to build on the card title and make up the bulk of the card's content.
                           </Card.Text>
-                          <Button variant='primary'>Go somewhere</Button>
+                          <Button variant='primary'>Readmore</Button>
                         </Card.Body>
                       </Card>
                     </div>
                   </div>
                 </div>
-              </div>
-
-              {/* <div className='card-backLA'>
-                <Card className='shadow p-2' style={{ width: '18rem',minHeight:'30rem'  }}>
-                  <Card.Img variant='top' src={image} width={50} />
-                  <Card.Body>
-                    <Card.Title>Lab Automation</Card.Title>
-                    <Card.Text>
-                      Some quick example text to build on the card title and make up the bulk of the card's content.
-                    </Card.Text>
-                    <Button variant='primary'>Go somewhere</Button>
-                  </Card.Body>
-                </Card>
-              </div> */}
+              </div>    
             </div>
 
 

@@ -4,7 +4,6 @@ function Customers() {
   return (
     <section id='Customers'>
       <div style={{
-        backgroundColor: 'greenyellow',
         width: 'auto',
         height: '100vh',
         display:'flex',
@@ -12,7 +11,7 @@ function Customers() {
         alignItems:'center'
       }}>
         <div>
-          <h1>Customer</h1>
+          <h1>Our Customers</h1>
         </div>
       </div>
     </section>
