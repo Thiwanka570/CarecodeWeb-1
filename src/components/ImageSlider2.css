@@ -1,0 +1,24 @@
+/* CSS for the slideshow container */
+.slideshow-container {
+    position: relative;
+    width: 100%;
+    max-width: 800px;
+    margin: 0 auto;
+  }
+  
+  /* CSS for each slide and initial state */
+  .mySlides {
+    display: none;
+    animation: fade 3s infinite; /* Adjust the duration as needed */
+  }
+  
+  /* Keyframe animation for fading */
+  @keyframes fade {
+    0%, 100% {
+      opacity: 0;
+    }
+    25%, 75% {
+      opacity: 1;
+    }
+  }
+  
