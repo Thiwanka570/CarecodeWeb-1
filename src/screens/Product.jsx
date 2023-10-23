@@ -1,7 +1,7 @@
-import React from 'react';
-import './styles/Product.css';
+import React from "react";
+import "./styles/Product.css";
 // import Button from 'react-bootstrap/Button';
-import Card from 'react-bootstrap/Card';
+import Card from "react-bootstrap/Card";
 // import Row from 'react-bootstrap/Row';
 // import Col from 'react-bootstrap/Col';
 // import { Link } from 'react-scroll'; // Import Link from react-scroll
@@ -18,16 +18,11 @@ import Card from 'react-bootstrap/Card';
 
 function Product() {
   return (
-    <section id='Product'>
-      <div className=' bgProduct'>
-
-
-
-        <div className='d-flex justify-content-center align-items-center'>
+    <section id="Product">
+      <div className=" bgProduct">
+        <div className="d-flex justify-content-center align-items-center">
           <h1>Our Products</h1>
         </div>
-
-
       </div>
     </section>
   );

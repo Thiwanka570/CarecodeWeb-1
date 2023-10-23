@@ -1,0 +1,59 @@
+.bgAbout {
+    background-color: rgb(255, 255, 255);
+    width: auto;
+    height: auto;
+    justify-content: center;
+    align-items: center;
+}
+
+.aboutSection {
+    margin-top: 50px;
+    display: flex;
+    color: black;
+    flex-direction: column;
+    /* Change to column */
+    justify-content: center;
+    align-items: center;
+  
+    gap: 20px;
+       
+        width: auto;
+        text-align: center;
+}
+
+.aboutImage {
+    width: 100%;
+    height: auto;
+    opacity: 0;
+    transform: translateX(20px);
+    transition: opacity 0.6s ease, transform 0.6s ease;
+}
+
+.aboutImage:hover {
+    box-shadow: 0px 20px 30px rgba(0, 0, 0, 0.2);
+    transform: translateY(-10px);
+}
+
+.fadeIn {
+    opacity: 1;
+    transform: translateY(0px);
+}
+
+.aboutRight {
+    display: flex;
+    flex-direction: column;
+    gap: 1.5rem;
+}
+
+.header {
+    max-width: 100%;
+    font-weight: bolder;
+    font-size: 60px;
+    color: rgb(15, 210, 210); 
+}
+
+.body {
+    font-size: 18px;
+        /* Slightly smaller body text */
+        color: rgb(66, 66, 66);
+}
