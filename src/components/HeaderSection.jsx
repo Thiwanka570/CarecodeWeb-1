@@ -1,7 +1,7 @@
 import React from 'react';
 import './HeaderSection.css';
-import ImageSlider from './ImageSlider';
-import ImageSlider2 from './ImageSlider2';
+// import ImageSlider from './ImageSlider';
+// import ImageSlider2 from './ImageSlider2';
 import logo from '../Assest/logo.png'
 
 function HeaderSection() {

@@ -1,5 +1,5 @@
 import './App.css';
-import HeaderSection from './components/HeaderSection';
+// import HeaderSection from './components/HeaderSection';
 import Navbar from './components/Navbar';
 import Aboutus from './screens/Aboutus';
 import Homepage from './screens/Homepage';

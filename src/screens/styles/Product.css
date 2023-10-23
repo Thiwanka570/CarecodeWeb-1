@@ -1,9 +1,47 @@
 .bgProduct{
     /* background-color: black;
     color: white; */
-    background-color: aqua;
+   
     width: auto;
-    height: 100vh;
+    height: auto;
     display: flex;
     justify-content: center;
+}
+
+.products{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+   
+}
+
+/* CSS for flip animation */
+.cardfront {
+  perspective: 1000px; /* Add 3D perspective to the parent container */
+  position: relative;
+}
+
+.card {
+  width: 18rem;
+  min-height: 30rem;
+  transform-style: preserve-3d;
+  transition: transform 0.5s;
+}
+
+.cardfront:hover .card {
+  transform: rotateY(180deg);
+}
+
+.card-inner {
+  transform-style: preserve-3d;
+  transition: transform 0.5s;
+  transform: rotateY(0deg);
+}
+
+.card-backLA {
+  backface-visibility: hidden; /* Hide the back face during the flip */
+  position: absolute;
+  top: 0;
+  left: 0;
 }
