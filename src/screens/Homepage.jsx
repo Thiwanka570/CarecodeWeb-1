@@ -1,7 +1,8 @@
-import React from 'react'
-import HeaderSection from '../components/HeaderSection'
+import React from "react";
+import HeaderSection from "../components/HeaderSection";
 
 function Homepage() {
+
     return (
         <section id='Home'>
             <div style={{width:'auto',height:'100vh'}}>
@@ -10,5 +11,4 @@ function Homepage() {
         </section>
     )
 }
-
-export default Homepage
+export default Homepage;

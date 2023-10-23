@@ -22,7 +22,7 @@ function Product() {
                   <div className='card-inner'>
                     <div className='card-front'>
                       <Card className='shadow p-2' style={{ width: '18rem', minHeight: '30rem' }}>
-                        <Card.Img variant='top' src={image} width={50} />
+                        <Card.Img variant='top' src="#" width={50} />
                         <Card.Body>
                           <Card.Title>Lab Automation</Card.Title>
                           <Card.Text>
@@ -40,7 +40,7 @@ function Product() {
                           <Card.Text>
                             Some quick example text to build on the card title and make up the bulk of the card's content.
                           </Card.Text>
-                          <Button variant='primary'>Readmore</Button>
+                         
                         </Card.Body>
                       </Card>
                     </div>
@@ -53,7 +53,7 @@ function Product() {
                   <div className='card-inner'>
                     <div className='card-front'>
                       <Card className='shadow p-2' style={{ width: '18rem', minHeight: '30rem' }}>
-                        <Card.Img variant='top' src={image} width={50} />
+                        <Card.Img variant='top' src="#" width={50} />
                         <Card.Body>
                           <Card.Title>Lab Automation</Card.Title>
                           <Card.Text>
@@ -71,7 +71,7 @@ function Product() {
                           <Card.Text>
                             Some quick example text to build on the card title and make up the bulk of the card's content.
                           </Card.Text>
-                          <Button variant='primary'>Readmore</Button>
+                         
                         </Card.Body>
                       </Card>
                     </div>
@@ -84,7 +84,7 @@ function Product() {
                   <div className='card-inner'>
                     <div className='card-front'>
                       <Card className='shadow p-2' style={{ width: '18rem', minHeight: '30rem' }}>
-                        <Card.Img variant='top' src={image} width={50} />
+                        <Card.Img variant='top' src="#" width={50} />
                         <Card.Body>
                           <Card.Title>Lab Automation</Card.Title>
                           <Card.Text>
@@ -102,7 +102,7 @@ function Product() {
                           <Card.Text>
                             Some quick example text to build on the card title and make up the bulk of the card's content.
                           </Card.Text>
-                          <Button variant='primary'>Readmore</Button>
+                          
                         </Card.Body>
                       </Card>
                     </div>
@@ -116,7 +116,7 @@ function Product() {
                   <div className='card-inner'>
                     <div className='card-front'>
                       <Card className='shadow p-2' style={{ width: '18rem', minHeight: '30rem' }}>
-                        <Card.Img variant='top' src={image} width={50} />
+                        <Card.Img variant='top' src="#" width={50} />
                         <Card.Body>
                           <Card.Title>Lab Automation</Card.Title>
                           <Card.Text>
@@ -134,7 +134,7 @@ function Product() {
                           <Card.Text>
                             Some quick example text to build on the card title and make up the bulk of the card's content.
                           </Card.Text>
-                          <Button variant='primary'>Readmore</Button>
+                        
                         </Card.Body>
                       </Card>
                     </div>
@@ -147,7 +147,7 @@ function Product() {
                   <div className='card-inner'>
                     <div className='card-front'>
                       <Card className='shadow p-2' style={{ width: '18rem', minHeight: '30rem' }}>
-                        <Card.Img variant='top' src={image} width={50} />
+                        <Card.Img variant='top' src="#" width={50} />
                         <Card.Body>
                           <Card.Title>Lab Automation</Card.Title>
                           <Card.Text>
@@ -165,7 +165,7 @@ function Product() {
                           <Card.Text>
                             Some quick example text to build on the card title and make up the bulk of the card's content.
                           </Card.Text>
-                          <Button variant='primary'>Readmore</Button>
+                         
                         </Card.Body>
                       </Card>
                     </div>
@@ -178,7 +178,7 @@ function Product() {
                   <div className='card-inner'>
                     <div className='card-front'>
                       <Card className='shadow p-2' style={{ width: '18rem', minHeight: '30rem' }}>
-                        <Card.Img variant='top' src={image} width={50} />
+                        <Card.Img variant='top' src="#" width={50} />
                         <Card.Body>
                           <Card.Title>Lab Automation</Card.Title>
                           <Card.Text>
@@ -196,7 +196,7 @@ function Product() {
                           <Card.Text>
                             Some quick example text to build on the card title and make up the bulk of the card's content.
                           </Card.Text>
-                          <Button variant='primary'>Readmore</Button>
+                          
                         </Card.Body>
                       </Card>
                     </div>
@@ -204,18 +204,9 @@ function Product() {
                 </div>
               </div>    
             </div>
-
-
-
-
           </div>
-
         </div>
-
       </div>
-
-
-
     </section>
   );
 }
