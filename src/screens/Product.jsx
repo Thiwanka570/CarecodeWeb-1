@@ -6,10 +6,6 @@ import image from '../Assest/img1.jpg'
 
 
 function Product() {
-
-
-
-
   return (
     <section id='Product'>
       <div className=' bgProduct'>
@@ -28,7 +24,7 @@ function Product() {
                           <Card.Text>
                             Some quick example text to build on the card title and make up the bulk of the card's content.
                           </Card.Text>
-                          <Button variant='primary'>Readmore</Button>
+                         
                         </Card.Body>
                       </Card>
                     </div>
@@ -59,7 +55,7 @@ function Product() {
                           <Card.Text>
                             Some quick example text to build on the card title and make up the bulk of the card's content.
                           </Card.Text>
-                          <Button variant='primary'>Readmore</Button>
+                         
                         </Card.Body>
                       </Card>
                     </div>
@@ -90,7 +86,7 @@ function Product() {
                           <Card.Text>
                             Some quick example text to build on the card title and make up the bulk of the card's content.
                           </Card.Text>
-                          <Button variant='primary'>Readmore</Button>
+                         
                         </Card.Body>
                       </Card>
                     </div>
@@ -122,7 +118,7 @@ function Product() {
                           <Card.Text>
                             Some quick example text to build on the card title and make up the bulk of the card's content.
                           </Card.Text>
-                          <Button variant='primary'>Readmore</Button>
+                         
                         </Card.Body>
                       </Card>
                     </div>
@@ -153,7 +149,7 @@ function Product() {
                           <Card.Text>
                             Some quick example text to build on the card title and make up the bulk of the card's content.
                           </Card.Text>
-                          <Button variant='primary'>Readmore</Button>
+                          
                         </Card.Body>
                       </Card>
                     </div>
@@ -184,7 +180,7 @@ function Product() {
                           <Card.Text>
                             Some quick example text to build on the card title and make up the bulk of the card's content.
                           </Card.Text>
-                          <Button variant='primary'>Readmore</Button>
+                          
                         </Card.Body>
                       </Card>
                     </div>

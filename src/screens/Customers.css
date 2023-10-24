@@ -1,0 +1,11 @@
+.slickeffect{
+    width:'500px';
+    height:'100px'
+}
+
+@media (max-width: 600px) {
+    .slickeffect {
+      width: 500px; /* Adjust the width as needed for smaller screens */
+      height: auto; /* Adjust the height as needed for smaller screens */
+    }
+  }

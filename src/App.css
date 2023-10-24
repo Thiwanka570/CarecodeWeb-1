@@ -44,14 +44,14 @@
   width: 100%;
   z-index: 1000; /* Adjust the z-index to ensure it's above other content */
 }
-
-/* Footer.css */
+/* App.css */
 .footer {
-  background-color: black;
-  color: white;
-  padding: 20px;
-  text-align: center;
+  margin-top: auto;
   bottom: 0;
   width: 100%;
+  height: 350px; /* Adjust the height according to your design */
+  background-color: #000000; /* Set your desired background color */
+  color: #fff; /* Set your desired text color */
+  text-align: center;
 }
 

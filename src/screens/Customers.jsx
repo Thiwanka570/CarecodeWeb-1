@@ -1,4 +1,6 @@
 import React from 'react'
+import './Customers.css'
+import Slider from '../components/Slider'
 
 function Customers() {
   return (
@@ -8,10 +10,18 @@ function Customers() {
         height: '100vh',
         display:'flex',
         justifyContent:'center',
-        alignItems:'center'
+        color:'black',
+        marginTop:'10px',
+        
+        
       }}>
         <div>
-          <h1>Our Customers</h1>
+          <h1 style={{ color: 'black', fontWeight: 'bolder', fontFamily: 'inherit' }}>Our Customers</h1>
+            <div className='' style={{width:'800px',height:'100px'}}>
+              <Slider/>
+              <Slider/>
+              <Slider/>
+            </div>
         </div>
       </div>
     </section>
