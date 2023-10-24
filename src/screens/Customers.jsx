@@ -12,7 +12,7 @@ function Customers() {
         alignItems:'center'
       }}>
         <div>
-          <h1>Customer</h1>
+          <h1>Customers</h1>
         </div>
       </div>
     </section>
